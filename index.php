@@ -56,7 +56,7 @@
                   <input type="text" autocomplete="off"/>
                 </div>-->
 
-                <button type="submit" class="button button-block"/>Отправить данные</button>
+                <button type="submit" id="data-post-btn" class="button button-block"/>Отправить данные</button>
 
             </form>
 
@@ -112,6 +112,6 @@
 
 <script type="text/javascript" src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="js/form_js.js"></script>
-
+<script type="text/javascript" src="js/data_insert.js"></script>
 </body>
 </html>
