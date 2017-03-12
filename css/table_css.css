@@ -28,13 +28,20 @@ table#data_counters tr:nth-child(odd) {
     background-color: #c2c2d6;
 }
 table#data_counters th {
-    color: white;
-    background-color: black;
+    text-align: center;
+    color: #999999;
+    background-color: #222222;
 }
+
+
 
 table#data_counters th:nth-child(1) {
     width: 30px;
 }
 table#data_counters th:nth-child(2) {
     width: 80px;
+}
+
+table#data_counters td:first-child{
+    background-color: #52527a;
 }
