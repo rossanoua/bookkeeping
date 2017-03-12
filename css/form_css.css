@@ -165,12 +165,22 @@ textarea {
 }
 .button:hover, .button:focus {
     background: #179b77;
+    cursor: pointer;
 }
 
-.button-block {
+/*.send-data{
+    
+}*/
+
+.wraper > .send-data {
+    margin: 0 auto;
+    /*text-align: center;*/
+}
+
+/*.button-block {
     display: block;
     width: 100%;
-}
+}*/
 
 .forgot {
     margin-top: -20px;
