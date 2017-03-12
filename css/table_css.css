@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -45,3 +46,52 @@ table#data_counters th:nth-child(2) {
 table#data_counters td:first-child{
     background-color: #52527a;
 }
+=======
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    border-spacing: 5px;
+    text-align: center;
+}
+
+table#data_counters {
+    width: 100%;
+    background-color: #f1f1c1;
+}
+
+table#data_counters tr:nth-child(even) {
+    background-color: #9494b8;
+}
+table#data_counters tr:nth-child(odd) {
+    background-color: #c2c2d6;
+}
+table#data_counters th {
+    text-align: center;
+    color: #999999;
+    background-color: #222222;
+}
+
+
+
+table#data_counters th:nth-child(1) {
+    width: 30px;
+}
+table#data_counters th:nth-child(2) {
+    width: 80px;
+}
+
+table#data_counters td:first-child{
+    background-color: #52527a;
+}
+>>>>>>> 7ded166b434c35585967c1a8fa36652db8e33661

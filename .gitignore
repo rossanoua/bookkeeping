@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+!.gitignore
+.idea/*
+=======
 /nbproject/private/
+>>>>>>> d73001ef6c9c6b4ff2144a3fe3d2cd75f4d8b9a8
